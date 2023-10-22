@@ -1,3 +1,18 @@
-.container1{
-    background-color: none;
+body{
+    background-color: bisque;
+}
+.containerM{
+    display: flex;
+    justify-content: center;
+
+}
+.blockM{
+    background-color: beige;
+    border: 1px solid rgb(44, 44, 44);
+    color: rgb(40, 40, 40);
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 5px;
+    margin-top: 20px;
+    text-align: center;
 }
